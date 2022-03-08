@@ -7,7 +7,7 @@ branding:
   label: Docs
 
 links:
-  - text Home
+  - text: Home
     link: /README.md
     icon: home
 
