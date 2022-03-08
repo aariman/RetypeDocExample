@@ -10,8 +10,10 @@ links:
   icon: rocket
 - text: Wiki
   link: https://wiki.internetcomputer.org/
+  icon: globe
 - text: Medium
   link: https://medium.com/dfinity
+  icon: log
 edit:
   repo: https://github.com/aariman/RetypeDocExample
   label: Edit on GitHub
