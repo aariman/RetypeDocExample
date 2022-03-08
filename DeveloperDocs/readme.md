@@ -1,3 +1,3 @@
-# Dev Docs Landing Page
+# Developer Documentation
 
 blablba
