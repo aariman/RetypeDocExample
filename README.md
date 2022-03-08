@@ -1,3 +1,7 @@
+---
+icon: home
+label: Welcome
+---
 # Doc Testing Page
 
 ## Code Blocks
