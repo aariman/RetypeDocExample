@@ -8,12 +8,15 @@ links:
 - text: Getting Started
   link: https://retype.com/guides/getting-started/
   icon: rocket
+  target: blank
 - text: Wiki
   link: https://wiki.internetcomputer.org/
   icon: globe
+  target: blank
 - text: Medium
   link: https://medium.com/dfinity
   icon: log
+  target: blank
 edit:
   repo: https://github.com/aariman/RetypeDocExample
   label: Edit on GitHub
