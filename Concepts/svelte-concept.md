@@ -3,6 +3,7 @@ label: Svelte-related Concepts
 order: 1000
 categories:
     - Concepts
+tags:
     - Svelte
 ---
 # Concepts important while working with Svelte
