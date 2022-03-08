@@ -1,3 +1,3 @@
 # Getting Started
 
-blalbkajlkbkjal
+Fancy getting started guide...

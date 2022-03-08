@@ -1,3 +1,3 @@
 # Concepts Landing Page
 
-blablba
+Something aboug concepts...
