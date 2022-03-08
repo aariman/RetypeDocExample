@@ -4,7 +4,8 @@ order: 2000
 categories:
     - Concepts
 tags:
-    - General
+    - Basics
+    - Canister
 ---
 # Cycles
 

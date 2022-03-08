@@ -5,6 +5,7 @@ categories:
     - Tutorials
 tags: 
     - Svelte
+    - Frontend
 ---
 # Svelte Tutorial
 
