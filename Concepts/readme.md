@@ -1,3 +1,0 @@
-# Concepts Landing Page
-
-Something about concepts...
