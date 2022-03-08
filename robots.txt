@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: /sitemap.xml.gz
+Sitemap: https://aariman.github.io/RetypeDocExample/sitemap.xml.gz
